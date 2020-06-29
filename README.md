@@ -53,11 +53,11 @@
 
 	
 
-	for better accuracy results Ramdom Forest algorithm is used
+	for better accuracy results Isolation Forest algorithm is used
 
 	
 
-	Random Forest is easy to implement. It builds multiple decision trees and merges them together to get a more accurate and stable prediction.
+	Isolation Forest is easy to implement. The algorithm is based on the fact that anomalies are data points that are few and different.As a result of these properties, anomalies are susceptible to a mechanism called isolation.
 
 	
 
@@ -67,5 +67,5 @@
 
 	Final result of analysis:
 
-	The accuracy obtained is 99 (Random Forest algorithm)
+	The accuracy obtained is 99 (Isolation Forest algorithm)
 
