@@ -67,5 +67,5 @@
 
 	Final result of analysis:
 
-	The accuracy obtained is 90 (Random Forest algorithm)
+	The accuracy obtained is 99 (Random Forest algorithm)
 
